@@ -1,0 +1,16 @@
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\bin\Debug\net5.0\DataStructureStudy.exe
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\bin\Debug\net5.0\DataStructureStudy.deps.json
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\bin\Debug\net5.0\DataStructureStudy.runtimeconfig.json
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\bin\Debug\net5.0\DataStructureStudy.runtimeconfig.dev.json
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\bin\Debug\net5.0\DataStructureStudy.dll
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\bin\Debug\net5.0\ref\DataStructureStudy.dll
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\bin\Debug\net5.0\DataStructureStudy.pdb
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\obj\Debug\net5.0\DataStructureStudy.csproj.AssemblyReference.cache
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\obj\Debug\net5.0\DataStructureStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\obj\Debug\net5.0\DataStructureStudy.AssemblyInfoInputs.cache
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\obj\Debug\net5.0\DataStructureStudy.AssemblyInfo.cs
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\obj\Debug\net5.0\DataStructureStudy.csproj.CoreCompileInputs.cache
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\obj\Debug\net5.0\DataStructureStudy.dll
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\obj\Debug\net5.0\ref\DataStructureStudy.dll
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\obj\Debug\net5.0\DataStructureStudy.pdb
+C:\Users\zxo99\source\repos\DataStructureStudy\DataStructureStudy\obj\Debug\net5.0\DataStructureStudy.genruntimeconfig.cache

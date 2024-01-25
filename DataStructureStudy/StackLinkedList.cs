@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 // 계속 재학습
 namespace DataStructureStudy
 {
+    /*
     // 연결 리스트의 노드를 나타내는 클래스
     class Node<T>
     {
@@ -19,7 +20,6 @@ namespace DataStructureStudy
             Next = null;
         }
     }
-
     // 연결 리스트 기반의 스택 클래스
     class StackLinkedList<T>
     {
@@ -80,4 +80,5 @@ namespace DataStructureStudy
             }
         }
     }
+    */
 }

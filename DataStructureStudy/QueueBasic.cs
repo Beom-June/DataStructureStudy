@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 
 namespace DataStructureStudy
 {
-    /*
+    
     // 큐 기본 구현
+    /*
     class QueueBasic
     {
         static void Main(string[] args)
@@ -34,5 +35,5 @@ namespace DataStructureStudy
 
         }
     }
-*/
+    */
 }

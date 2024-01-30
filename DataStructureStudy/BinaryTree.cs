@@ -26,7 +26,7 @@ namespace DataStructureStudy
         public BinaryTreeNode<T> _Root { get; set; }
 
         // 트리 데이타 출력 예
-        public void PreOrderTraversal(BinaryTreeNode<T> node)
+        public void PreOrderTraversal(BinaryTreeNode<T> node) 7nz6b
         {
             if (node == null)
             {

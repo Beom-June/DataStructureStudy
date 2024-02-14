@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataStructureStudy
 {
+    /*
     class Graph
     {
         private int _v; // 그래프의 노드(정점) 수
@@ -70,4 +71,5 @@ namespace DataStructureStudy
             graph.DFS(0);
         }
     }
+    */
 }

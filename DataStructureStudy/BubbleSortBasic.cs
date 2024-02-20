@@ -6,39 +6,40 @@ using System.Threading.Tasks;
 
 namespace DataStructureStudy
 {
+    /*
     class BubbleSortBasic
     {
         static void Main(string[] args)
         {
-            int[] nArrData = { 20, 15, 1, 5, 10 };
+            int[] _arr = { 20, 15, 1, 5, 10 };
 
             Console.WriteLine("버블정렬");
 
             Console.Write("시작값 : ");
 
-            for (int i = 0; i < nArrData.Length; i++)
+            for (int i = 0; i < _arr.Length; i++)
             {
-                Console.Write(nArrData[i].ToString() + ",");
+                Console.Write(_arr[i].ToString() + ",");
             }
 
             Console.WriteLine();
 
             //구현
-            for (int i = 0; i < nArrData.Length - 1; i++)
+            for (int i = 0; i < _arr.Length - 1; i++)
             {
-                for (int j = 0; j < nArrData.Length - 1 - i; j++)
+                for (int j = 0; j < _arr.Length - 1 - i; j++)
                 {
-                    if (nArrData[j] > nArrData[j + 1])
+                    if (_arr[j] > _arr[j + 1])
                     {
-                        Swap(ref nArrData[j], ref nArrData[j + 1]);
+                        Swap(ref _arr[j], ref _arr[j + 1]);
                     }
 
                     //첫번째 정렬값(0, 1) : 20, 5, 10, 15 ...
                     Console.Write((i + 1) + "번째 정렬값(" + j + ", " + (j + 1) + ") : ");
 
-                    for (int k = 0; k < nArrData.Length; k++)
+                    for (int k = 0; k < _arr.Length; k++)
                     {
-                        Console.Write(nArrData[k].ToString() + ", ");
+                        Console.Write(_arr[k].ToString() + ", ");
                     }
 
                     Console.WriteLine();
@@ -53,4 +54,5 @@ namespace DataStructureStudy
             b = temp;
         }
     }
+    */
 }
